@@ -10,6 +10,6 @@ Arquivos:
 
 * dados_preprocessados.csv : Dados pré-processados
 
-* demo01.csv : Arquivo original de dados
+* demo01.csv : Arquivo original de dados (sem processamento)
 
-* Teste : diretório com ".nada" dentro
+* Teste : diretório com ".nada" dentro (sem importância)
