@@ -6,7 +6,7 @@ Projeto de Credit-score com árvores de decisão
 
 Arquivos:
 
-* Mod 07 - Tarefa 02 - AM.ipynb : Notebook principal
+* Mod 07 - Tarefa 02 - AM.ipynb : Notebook principal do projeto
 
 * dados_preprocessados.csv : Dados pré-processados
 
