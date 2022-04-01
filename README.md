@@ -13,3 +13,5 @@ Arquivos:
 * demo01.csv : Arquivo original de dados (sem processamento)
 
 * Teste : diretório com ".nada" dentro (sem importância)
+
+* Mod09 : diretório de outro módulo, sem relação com a tarefa 3
